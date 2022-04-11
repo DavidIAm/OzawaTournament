@@ -1,0 +1,10 @@
+.*.sw?
+IPNERROR*
+SAFETY_LOG*
+hostkey*
+ipn-raw*.log
+ipn.log*
+sessback/
+sessions*/
+"sessions\\newcartdb.xml"
+sshd_conf
